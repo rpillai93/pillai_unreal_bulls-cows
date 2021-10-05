@@ -1,0 +1,57 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Administrator\\\\source\\\\repos\\\\Unreal\\\\BullCowGame-starter-kit 4.26\\\\Source\\\\BullCowGame\\\\BullCowCartridge.cpp",
+		"command": "cl.exe @\"C:\\Users\\Administrator\\source\\repos\\Unreal\\BullCowGame-starter-kit 4.26\\.vscode\\compileCommands_BullCowGame\\BullCowGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Administrator\\\\source\\\\repos\\\\Unreal\\\\BullCowGame-starter-kit 4.26\\\\Source\\\\BullCowGame\\\\BullCowCartridge.h",
+		"command": "cl.exe @\"C:\\Users\\Administrator\\source\\repos\\Unreal\\BullCowGame-starter-kit 4.26\\.vscode\\compileCommands_BullCowGame\\BullCowGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Administrator\\\\source\\\\repos\\\\Unreal\\\\BullCowGame-starter-kit 4.26\\\\Source\\\\BullCowGame\\\\BullCowGame.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\Administrator\\source\\repos\\Unreal\\BullCowGame-starter-kit 4.26\\.vscode\\compileCommands_BullCowGame\\BullCowGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Administrator\\\\source\\\\repos\\\\Unreal\\\\BullCowGame-starter-kit 4.26\\\\Source\\\\BullCowGame\\\\BullCowGame.cpp",
+		"command": "cl.exe @\"C:\\Users\\Administrator\\source\\repos\\Unreal\\BullCowGame-starter-kit 4.26\\.vscode\\compileCommands_BullCowGame\\BullCowGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Administrator\\\\source\\\\repos\\\\Unreal\\\\BullCowGame-starter-kit 4.26\\\\Source\\\\BullCowGame\\\\BullCowGame.h",
+		"command": "cl.exe @\"C:\\Users\\Administrator\\source\\repos\\Unreal\\BullCowGame-starter-kit 4.26\\.vscode\\compileCommands_BullCowGame\\BullCowGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Administrator\\\\source\\\\repos\\\\Unreal\\\\BullCowGame-starter-kit 4.26\\\\Source\\\\BullCowGame\\\\BullCowGameGameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\Administrator\\source\\repos\\Unreal\\BullCowGame-starter-kit 4.26\\.vscode\\compileCommands_BullCowGame\\BullCowGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Administrator\\\\source\\\\repos\\\\Unreal\\\\BullCowGame-starter-kit 4.26\\\\Source\\\\BullCowGame\\\\BullCowGameGameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\Administrator\\source\\repos\\Unreal\\BullCowGame-starter-kit 4.26\\.vscode\\compileCommands_BullCowGame\\BullCowGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Administrator\\\\source\\\\repos\\\\Unreal\\\\BullCowGame-starter-kit 4.26\\\\Source\\\\BullCowGame\\\\Console\\\\Cartridge.cpp",
+		"command": "cl.exe @\"C:\\Users\\Administrator\\source\\repos\\Unreal\\BullCowGame-starter-kit 4.26\\.vscode\\compileCommands_BullCowGame\\BullCowGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Administrator\\\\source\\\\repos\\\\Unreal\\\\BullCowGame-starter-kit 4.26\\\\Source\\\\BullCowGame\\\\Console\\\\Cartridge.h",
+		"command": "cl.exe @\"C:\\Users\\Administrator\\source\\repos\\Unreal\\BullCowGame-starter-kit 4.26\\.vscode\\compileCommands_BullCowGame\\BullCowGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Administrator\\\\source\\\\repos\\\\Unreal\\\\BullCowGame-starter-kit 4.26\\\\Source\\\\BullCowGame\\\\Console\\\\Terminal.cpp",
+		"command": "cl.exe @\"C:\\Users\\Administrator\\source\\repos\\Unreal\\BullCowGame-starter-kit 4.26\\.vscode\\compileCommands_BullCowGame\\BullCowGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Administrator\\\\source\\\\repos\\\\Unreal\\\\BullCowGame-starter-kit 4.26\\\\Source\\\\BullCowGame\\\\Console\\\\Terminal.h",
+		"command": "cl.exe @\"C:\\Users\\Administrator\\source\\repos\\Unreal\\BullCowGame-starter-kit 4.26\\.vscode\\compileCommands_BullCowGame\\BullCowGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
